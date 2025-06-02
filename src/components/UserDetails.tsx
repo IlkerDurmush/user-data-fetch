@@ -1,3 +1,6 @@
+/*This component is not required by the job task.
+  I think it generally makes the app cleaner.*/
+
 import type { User } from "../types/User";
 
 interface UserDetailsProps {
