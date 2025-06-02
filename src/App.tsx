@@ -21,6 +21,7 @@ function App() {
         setLoading(false);
       })
       .catch((error) => {
+        console.error(error);
         setError("Error loading users.");
         setLoading(false);
       });
