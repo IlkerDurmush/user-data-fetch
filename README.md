@@ -2,6 +2,10 @@
 
 A simple React + TypeScript application that fetches and displays a list of users from the JSONPlaceholder API. Includes a responsive UI with a sidebar user list and detailed user view.
 
+## 🎥 Live Demo
+
+You can try the app live here: https://user-data-fetch-five.vercel.app/
+
 ## 🚀 Features
 
 - ✅ Built with **React** and **TypeScript**
